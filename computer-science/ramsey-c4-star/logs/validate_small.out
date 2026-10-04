@@ -1,0 +1,17 @@
+D=4 n=12 m in []: plain=UNKNOWN structured(lex none/first/consec/all)=UNSATISFIABLE/UNSATISFIABLE/UNSATISFIABLE/UNSATISFIABLE OK
+D=4 n=13 m in [2]: plain=UNKNOWN structured(lex none/first/consec/all)=UNSATISFIABLE/UNSATISFIABLE/UNSATISFIABLE/UNSATISFIABLE OK
+D=4 n=14 m in [2]: plain=UNKNOWN structured(lex none/first/consec/all)=UNSATISFIABLE/UNSATISFIABLE/UNSATISFIABLE/UNSATISFIABLE OK
+D=4 n=15 m in [1, 2]: plain=SATISFIABLE structured(lex none/first/consec/all)=SATISFIABLE/SATISFIABLE/SATISFIABLE/SATISFIABLE OK
+D=4 n=16 m in [1, 2]: plain=SATISFIABLE structured(lex none/first/consec/all)=SATISFIABLE/SATISFIABLE/SATISFIABLE/SATISFIABLE OK
+D=5 n=20 m in []: plain=UNKNOWN structured(lex none/first/consec/all)=UNSATISFIABLE/UNSATISFIABLE/UNSATISFIABLE/UNSATISFIABLE OK
+D=5 n=21 m in []: plain=UNKNOWN structured(lex none/first/consec/all)=UNSATISFIABLE/UNSATISFIABLE/UNSATISFIABLE/UNSATISFIABLE OK
+D=5 n=22 m in [2]: plain=UNKNOWN structured(lex none/first/consec/all)=UNSATISFIABLE/UNSATISFIABLE/UNSATISFIABLE/UNSATISFIABLE OK
+D=5 n=23 m in [2]: plain=UNKNOWN structured(lex none/first/consec/all)=UNSATISFIABLE/UNSATISFIABLE/UNSATISFIABLE/UNSATISFIABLE OK
+D=5 n=24 m in [1, 2]: plain=UNKNOWN structured(lex none/first/consec/all)=UNKNOWN/UNSATISFIABLE/UNSATISFIABLE/UNSATISFIABLE OK
+D=6 n=30 m in []: plain=UNKNOWN structured(lex none/first/consec/all)=UNSATISFIABLE/UNSATISFIABLE/UNSATISFIABLE/UNSATISFIABLE OK
+D=6 n=31 m in [3]: plain=UNKNOWN structured(lex none/first/consec/all)=UNSATISFIABLE/UNSATISFIABLE/UNSATISFIABLE/UNSATISFIABLE OK
+D=6 n=32 m in [3]: plain=UNKNOWN structured(lex none/first/consec/all)=UNKNOWN/UNSATISFIABLE/UNSATISFIABLE/UNSATISFIABLE OK
+D=6 n=33 m in [2, 3]: plain=UNKNOWN structured(lex none/first/consec/all)=UNKNOWN/UNKNOWN/UNSATISFIABLE/UNSATISFIABLE OK
+D=6 n=34 m in [2, 3]: plain=SATISFIABLE structured(lex none/first/consec/all)=SATISFIABLE/SATISFIABLE/SATISFIABLE/SATISFIABLE OK
+D=6 n=35 m in [1, 2, 3]: plain=UNKNOWN structured(lex none/first/consec/all)=SATISFIABLE/SATISFIABLE/SATISFIABLE/SATISFIABLE OK
+D=6 n=36 m in [1, 2, 3]: plain=UNKNOWN structured(lex none/first/consec/all)=UNKNOWN/SATISFIABLE/SATISFIABLE/SATISFIABLE OK

@@ -1,0 +1,13 @@
+# m=3 attempts without (or with weaker) symmetry breaking, CaDiCaL 3.0.1, one core, 2026-10-04
+## --m 3 --lex none --exact (stopped by hand)
+c conflicts:              12275520     11722.44    per second
+c total process time since initialization:      1047.49    seconds
+## --m 3 --lex none --exact --tri (-t 3600)
+c UNKNOWN
+c conflicts:              24494612      6807.13    per second
+c total process time since initialization:      3598.63    seconds
+## --m 3 --lex none --exact --tri --free-case 0 (-t 900)
+fc0  900s
+## --m 3 --lex first (-t 1800)
+c UNKNOWN
+1800.03 s 133576 KB

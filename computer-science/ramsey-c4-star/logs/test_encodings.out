@@ -1,0 +1,18 @@
+at_most_seq ok n=1 k=0..1
+at_most_seq ok n=2 k=0..2
+at_most_seq ok n=3 k=0..3
+at_most_seq ok n=4 k=0..4
+at_most_seq ok n=5 k=0..5
+at_most_seq ok n=6 k=0..6
+at_most_seq ok n=7 k=0..7
+at_most_seq ok n=8 k=0..8
+lex_leq ok L=1
+lex_leq ok L=2
+lex_leq ok L=3
+lex_leq ok L=4
+lex_leq ok L=5
+lex_leq ok L=6
+triangle_gadget ok n=4
+triangle_gadget ok n=5
+triangle_gadget ok n=6
+all gadget tests passed

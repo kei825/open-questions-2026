@@ -1,0 +1,24 @@
+== orig_l2.cnf
+ecc53f79b03e8650f15ab177352ef522b86594b0c82c7f023b1e5e2963c8e828  orig_l2.cnf
+cadical 3.0.1
+s UNSATISFIABLE
+cadical exit=20 time=1s
+7337383bc0bf0f028bf06c877579c7cf1e120f8df89449d38a920a505fdeeafd  t2/orig_l2.drat
+s VERIFIED
+drat-trim time=1s
+f0694238be1e3d904e3edca174b82a00d8144cd00f3cc05781ee52a6adcc8a75  t2/orig_l2.lrat
+s VERIFIED UNSAT
+cake_lpr time=3s
+== orig_l2.cnf: UNSAT certified (drat-trim + cake_lpr)
+== orig_l3.cnf
+c421c884540f87d1de86377ca85ad10b0b26b46028e4725fc789c1f0401f7381  orig_l3.cnf
+cadical 3.0.1
+s UNSATISFIABLE
+cadical exit=20 time=61s
+522dc645468db9c4495e3c921d41314a88edee5077f0e67c6c91c89841de9350  ./orig_l3.drat
+s VERIFIED
+drat-trim time=117s
+53c921edbd0a25e4bd5f3428a72b368e4280d426f0d832fe6c301ae48b7b707a  ./orig_l3.lrat
+s VERIFIED UNSAT
+cake_lpr time=18s
+== orig_l3.cnf: UNSAT certified (drat-trim + cake_lpr)

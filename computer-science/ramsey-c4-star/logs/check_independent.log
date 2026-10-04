@@ -1,0 +1,36 @@
+== ind_m2_none.cnf
+c6c7bb046e556f2bd3458dd346eda90a346318570fba0d8e9ba0be9b47d79df6  ind_m2_none.cnf
+cadical 3.0.1
+s UNSATISFIABLE
+cadical exit=20 time=1s
+12a3b8f5558c5b0b5738cbc078b351a81d81c63221cdaee651a7e5ceafc8c6c1  ind/ind_m2_none.drat
+s VERIFIED
+drat-trim time=1s
+7ebed88a44023628236bc6e239f6c28d78c48249827a4608f9aa485ba15a4e7b  ind/ind_m2_none.lrat
+s VERIFIED UNSAT
+cake_lpr time=3s
+== ind_m2_none.cnf: UNSAT certified (drat-trim + cake_lpr)
+== ind_m2_consec.cnf
+9eddf1da80a73c6a744efd1aa8b9cb5c6583c89746800d1a168dc30cdfcc0821  ind_m2_consec.cnf
+cadical 3.0.1
+s UNSATISFIABLE
+cadical exit=20 time=1s
+71cce2cab75f37056b5941358ca9a71f97c651e31b60580210613c42dbda963d  ind/ind_m2_consec.drat
+s VERIFIED
+drat-trim time=1s
+ac2a74cfd55056dc1262387447db82603b4fbbd7e515f85619b4a862e75a8d41  ind/ind_m2_consec.lrat
+s VERIFIED UNSAT
+cake_lpr time=2s
+== ind_m2_consec.cnf: UNSAT certified (drat-trim + cake_lpr)
+== ind_m3_consec.cnf
+4011c6624a87a0dd368e21530c89472c67cb99ff1005ba9d779494316c8fbe11  ind_m3_consec.cnf
+cadical 3.0.1
+s UNSATISFIABLE
+cadical exit=20 time=67s
+f0badad885fdfc1ce319961b8a9d87b092cad98962bb7620319b3f8e68df3c71  ind/ind_m3_consec.drat
+s VERIFIED
+drat-trim time=174s
+6482123a8c611f6750bea07aa4615671c5205267b9e3ae04c6313c0d45b528d7  ind/ind_m3_consec.lrat
+s VERIFIED UNSAT
+cake_lpr time=22s
+== ind_m3_consec.cnf: UNSAT certified (drat-trim + cake_lpr)

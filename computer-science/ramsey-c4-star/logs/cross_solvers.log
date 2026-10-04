@@ -1,0 +1,6 @@
+cadical-3.0.1 ind_m3_lexmax s UNSATISFIABLE 66s
+cadical-3.0.1 ind_m3_consec_exact s UNSATISFIABLE 50s
+cadical-2.1.2 ind_m3_consec s UNSATISFIABLE 71s
+kissat-4.0.4 ind_m3_consec s UNSATISFIABLE 40s
+cadical-2.1.2 orig_l3 s UNSATISFIABLE 103s
+kissat-4.0.4 orig_l3 s UNSATISFIABLE 48s
